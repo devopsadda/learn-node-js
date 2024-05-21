@@ -60,5 +60,13 @@ const notes = getNotes()
 console.log(notes)
 
 -------------------------------------
+```
+### Importing npm Modules
+
+```node
+npm install
+npm i validator@13.12.0
+
 
 ```
+
